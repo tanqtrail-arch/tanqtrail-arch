@@ -1,0 +1,5 @@
+{
+  "name": "PDF to Editable Slide Converter",
+  "description": "Extract images and text from PDF files to generate fully editable PowerPoint presentations with the power of Gemini AI for content structuring.",
+  "requestFramePermissions": []
+}
